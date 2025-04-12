@@ -36,7 +36,9 @@ public class Main {
                     System.out.println("la posicion de f es:"+f+"la pocicion de c es:"+c+"el valor es:"+matriz[f][c]);
                 }else if(f==3 && c==1){  
                     System.out.println("la posicion de f es:"+f+"la pocicion de c es:"+c+"el valor es:"+matriz[f][c]);
-                }
+                }else if(f==3 && c==1){  
+                    System.out.println("la posicion de f es:"+f+"la pocicion de c es:"+c+"el valor es:"+matriz[f][c]);
+                }    
             }
             
         }

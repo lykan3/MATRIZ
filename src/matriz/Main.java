@@ -19,7 +19,7 @@ package matriz;
                     System.out.println("la posicion de f es:"+f+"la pocicion de c es:"+c+"el valor es:"+matriz[f][c]);
                 }if(f==4 && c==4){  
                     System.out.println("la posicion de f es:"+f+"la pocicion de c es:"+c+"el valor es:"+matriz[f][c]); 
-                }*/
+                }  */ 
 /**
  *
  * @author LYKAN
